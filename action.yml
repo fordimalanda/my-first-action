@@ -1,0 +1,11 @@
+name: 'Hello World Action'
+description: 'Une action simple pour tester GitHub Actions'
+author: 'fordimalanda'
+inputs:
+  who-to-greet:
+    description: 'Qui saluer'
+    required: true
+    default: 'World'
+runs:
+  using: 'node20'
+  main: 'index.js'
