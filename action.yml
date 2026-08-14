@@ -1,4 +1,4 @@
-name: 'Hello World Action'
+name: 'fordimalanda-hello-validation-action'
 description: 'Une action simple pour tester GitHub Actions'
 author: 'fordimalanda'
 inputs:
